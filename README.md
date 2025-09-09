@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Pierre !
 
-<!--
-**Pierrebsnrd/Pierrebsnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Développeur full-stack junior passionné par le web et les interfaces intuitives.  
+💻 Stack préférée : JavaScript, React, Node.js, MongoDB  
+🚀 Objectif : décrocher un premier poste en développement web
 
-Here are some ideas to get you started:
+## 🔧 Mes projets favoris
+- 🎬 [Hackatweet](https://github.com/Pierrebsnrd/hackatweet) – mini réseau social en React/Node
+- 🧘‍♀️ [Sophrologie](https://github.com/Pierrebsnrd/sophrologie-frontend) – site vitrine avec backend Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Me contacter
+- 💼 [LinkedIn](https://www.linkedin.com/in/pierre-boisnard-74514785/)
+- 📧 pierre.boisnard@live.fr
