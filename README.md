@@ -10,7 +10,7 @@ Actuellement **à la recherche d'un premier poste** en développement web pour m
 
 ### Frontend
 - **Langages** : JavaScript · TypeScript
-- **Frameworks** : React · Next.js · Vue 3 (Composition API)
+- **Frameworks** : React · Next.js
 - **Web Standards** : HTML sémantique
 - **Styling** : CSS moderne (Grid/Flexbox, custom properties)
 
@@ -44,14 +44,14 @@ Actuellement **à la recherche d'un premier poste** en développement web pour m
 
 ## 🎓 Projets de formation La Capsule
 
-### 🎮 Trollen
+### 🎮 [Trollen](https://github.com/Pierrebsnrd/trollen-frontend)
 **Application sociale immersive avec chat anonyme et éléments RPG**
 - **Mobile** : React Native
 - **Backend** : Node.js, Express, MongoDB
-- **Fonctionnalités** : Chat temps réel, système de personnages, géolocalisation
-- *Code privé (projet de formation)*
+- **Fonctionnalités** : Chat temps réel, système de personnages
+- *Projet final de formation*
 
-### 🎬 [Hackatweet](https://github.com/Pierrebsnrd/hackatweet-frontend)
+### 🎬 [Hackatweet](https://github.com/Pierrebsnrd/hackatweet)
 **Mini réseau social type Twitter**
 - **Frontend** : [React, interface responsive](https://github.com/Pierrebsnrd/hackatweet-frontend)
 - **Backend** : [Node.js, Express, MongoDB](https://github.com/Pierrebsnrd/hackatweet-backend)
@@ -79,7 +79,6 @@ Actuellement **à la recherche d'un premier poste** en développement web pour m
 
 - 💼 **LinkedIn** : [Pierre Boisnard](https://www.linkedin.com/in/pierre-boisnard-74514785/)
 - 📧 **Email** : pierre.boisnard@live.fr
-- 🌐 **Portfolio** : [Mes repositories GitHub](https://github.com/Pierrebsnrd?tab=repositories)
 
 ---
 
