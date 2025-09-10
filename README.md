@@ -46,15 +46,15 @@ Actuellement **à la recherche d'un premier poste** en développement web pour m
 
 ### 🎮 [Trollen](https://github.com/Pierrebsnrd/trollen-frontend)
 **Application sociale immersive avec chat anonyme et éléments RPG**
-- **Mobile** : React Native
-- **Backend** : Node.js, Express, MongoDB
+- **Mobile** : [React Native](https://github.com/Pierrebsnrd/trollen-frontend)
+- **Backend** : [Node.js, Express, MongoDB](https://github.com/Pierrebsnrd/trollen-backend)
 - **Fonctionnalités** : Chat temps réel, système de personnages
 - *Projet final de formation*
 
 ### 🎬 [Hackatweet](https://github.com/Pierrebsnrd/hackatweet)
 **Mini réseau social type Twitter**
-- **Frontend** : [React, interface responsive](https://github.com/Pierrebsnrd/hackatweet-frontend)
-- **Backend** : [Node.js, Express, MongoDB](https://github.com/Pierrebsnrd/hackatweet-backend)
+- **Frontend** : [React, interface responsive](https://github.com/Pierrebsnrd/hackatweet/tree/main/frontend)
+- **Backend** : [Node.js, Express, MongoDB](https://github.com/Pierrebsnrd/hackatweet/tree/main/backend)
 - **Fonctionnalités** : Authentification, tweets en temps réel, système de likes
 - **Apprentissage** : Gestion d'état, API REST, interface responsive
 
