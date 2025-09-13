@@ -33,6 +33,10 @@ Actuellement **à la recherche d'un premier poste** en développement web pour m
 
 ## 💼 Projets professionnels
 
+### 🖥️ Portfolio personnel
+**Découvrez l’ensemble de mes projets et réalisations sur mon site portfolio** :  
+[https://pierre-boisnard.vercel.app](https://portfolio-frontend-neon-six.vercel.app/)
+
 ### 🧘‍♀️ [Site Sophrologie - Stéphanie Habert](https://www.sophrologuevillepreux.fr/)
 **Site vitrine professionnel avec interface d'administration**
 - **Frontend** : [Next.js, React, CSS Modules](https://github.com/Pierrebsnrd/sophrologie-frontend)
