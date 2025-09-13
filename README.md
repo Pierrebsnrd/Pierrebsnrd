@@ -33,7 +33,7 @@ Actuellement **à la recherche d'un premier poste** en développement web pour m
 
 ## 💼 Projets professionnels
 
-### 🧘‍♀️ [Site Sophrologie - Stéphanie Habert](https://github.com/Pierrebsnrd/sophrologie-frontend)
+### 🧘‍♀️ [Site Sophrologie - Stéphanie Habert](https://www.sophrologuevillepreux.fr/)
 **Site vitrine professionnel avec interface d'administration**
 - **Frontend** : [Next.js, React, CSS Modules](https://github.com/Pierrebsnrd/sophrologie-frontend)
 - **Backend** : [Node.js, Express, MongoDB](https://github.com/Pierrebsnrd/sophrologie-backend)
