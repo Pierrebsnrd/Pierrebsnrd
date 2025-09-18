@@ -45,6 +45,16 @@ Actuellement **à la recherche d'un premier poste** en développement web pour m
 
 ---
 
+## 🌤️ Autre projet notable
+
+### ☁️ [Weather App Plus](https://weather-app-plus-frontend.vercel.app/)  
+**Application météo complète avec frontend + backend**
+- **Frontend** : [Next.js, React, Tailwind](https://github.com/Pierrebsnrd/weather-app-plus-frontend) interface utilisateur avec affichage des conditions météo, température, etc.  
+- **Backend** : [Node.js, Express, MongoDB](https://github.com/Pierrebsnrd/weather-app-plus-backend) API pour récupérer les données météo, traitement / formatage des données côté serveur 
+- **Fonctionnalités** : Prise en charge des entrées utilisateur (ville / localisation), affichage dynamique des prévisions, interface claire
+
+---
+
 ## 🎓 Projets de formation La Capsule
 
 ### 🎮 [Trollen](https://github.com/Pierrebsnrd/trollen-frontend)
